@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Riccardo Dallimonti
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning python
-- 📫 How to reach me dallimonti.riccardo@gmail.com@
-- 😄 Pronouns: ...
+- 📫 How to reach me dallimonti.riccardo@gmail.com
+
 
 
 <!---
